@@ -1,3 +1,3 @@
- const apikey = "dbe5dba45233491f92384675bee4a139"
+ const apikey = "write your api key"
 
  export default apikey;
