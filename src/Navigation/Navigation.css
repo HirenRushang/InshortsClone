@@ -1,0 +1,13 @@
+.navbar_wrapper{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.navbar_wrapper .hamburger_menu{
+    flex: 0.5;
+}
+
+.navbar_wrapper .brand_logo img{
+    width: 170px;
+    cursor: pointer;
+}
